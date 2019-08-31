@@ -3,7 +3,7 @@
  ##feature
  - **fast**  
  
-    ```10 times faster than him than shopspring/decimal```
+    ```10 times faster than shopspring/decimal```
  - **Database mapping** 
  
     ```Implement mysql mapping``` 
